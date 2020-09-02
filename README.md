@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.giphy.com/media/ME9ngBCHSBtg7YSk73/giphy.gif)
 
 - 🔭 I’m currently working on ...
   Secret Project 
