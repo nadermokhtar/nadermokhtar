@@ -1,12 +1,13 @@
 ![](https://media.giphy.com/media/ME9ngBCHSBtg7YSk73/giphy.gif)
 
 * 🔭 I’m currently working on ...
-  Client Work 🧑‍🏭: Full-stack NX project utilizing TypeScript, React, Node.js, Prisma, and Ant Design
+ - Client Work 🧑‍🏭: Full-stack NX project utilizing TypeScript, React, Node.js, Prisma, and Ant Design
 * 🌱 I’m currently learning ...
-  Currently enhancing skills in GraphQL, Express, React with Vite, Elixir, and Test-Driven Development (TDD).
+ - Currently enhancing skills in GraphQL, Express, React with Vite, Elixir, and Test-Driven Development (TDD).
 * 👯 I’m looking to collaborate on ...
-  nothing atm.
-* 🌍 Based in Boston.
+ - nothing atm.
+* 🌍 
+ - Based in Boston.
 
 ### Skills
 
