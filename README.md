@@ -1,7 +1,10 @@
 ![](https://media.giphy.com/media/ME9ngBCHSBtg7YSk73/giphy.gif)
 
 # 💫 About Me:
-* 🔭 I’m currently working on ...<br>  - Client Work 🧑‍🏭: Full-stack NX project utilizing TypeScript, React, Node.js, Prisma, and Ant Design<br>* 🌱 I’m currently learning ...<br>  - Currently enhancing skills in GraphQL, Express, React with Vite, Elixir, and Test-Driven Development (TDD).<br>* 👯 I’m looking to collaborate on ...<br>  - nothing atm.<br>* 🌍 <br>  - Based in Boston.
+* 🔭 I’m currently working on Client Work 🧑‍🏭: Full-stack NX project utilizing TypeScript, React, Node.js, Prisma, and Ant Design <br> 
+* 🌱 I’m currently learning  GraphQL, Express, React with Vite, Elixir, and Test-Driven Development (TDD). <br> 
+* 👯 I’m looking to collaborate on nothing atm. <br> 
+* 🌍 Based in Boston.
 
 
 ## 🌐 Socials:
